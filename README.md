@@ -13,4 +13,6 @@ One of the most significant findings of this study is the multiaxial strain mapp
 ![fig6](https://github.com/HongSungUk/CVOS-sensor/assets/26831528/dc457b36-6127-4404-a500-026fe3be50d3)
 **Fig. 6. Body motion monitoring system with the CVOS sensor.** a Elbow bending. b Knee bending according to the bending angle. c Wrist bending. d Responses of the CVOS and IMU sensors to forearm rotation. e Detection of complex body motions based on movement direction and angle. f Shoulder rotation motion detection via multiaxial strain mapping.
 
-The uploaded file (OTSS_v5.2_Eng) is the development code of the CVOS sensor. It includes the process of detecting micro-markers from the captured sensing part image through the optical system and processing them
+
+
+The uploaded file (OTSS_v5.2_Eng) is the development code of the CVOS sensor. It includes the process of detecting micro-markers from the captured sensing part image through the optical system and processing them.
