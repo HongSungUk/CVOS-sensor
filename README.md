@@ -6,7 +6,6 @@ Soft strain sensors play a major role in emerging human–machine interfaces. Mo
 
 DOI : 
 
-We report a computer-vision-based optical strain (CVOS) sensor to address the challenges faced by current soft sensor technologies: reproducibility, vulnerability, and repeatability. The proposed sensor integrates three technologies: a nonmetal sensor, which can be simply fabricated by using laser processing to apply regular micro-marker patterns on an Ecoflex film; close-up imaging using an assembly of commercially available parts to capture micro-markers; and advanced vision using an automated response correction algorithm to correct various error factors in the captured images such as the focusing distance, hysteresis, and bending state. 
 ![fig1](https://github.com/HongSungUk/CVOS-sensor/assets/26831528/e06c19a4-ac4b-4fba-af2b-2cb0104ef3a5)
 **Fig. 1. Design and mechanism of CVOS sensor.** a Design (Scale bar: 100 µm). b Strain detection mechanism. c Movement of the micro-marker according to multiaxial strain direction. d Images of micro-markers captured by the optical system to detect the applied tensile strain. e Comparison of micro-marker positions obtained via numerical simulations and measurements.
 
