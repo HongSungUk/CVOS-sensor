@@ -7,4 +7,4 @@ Soft strain sensors play a major role in emerging human–machine interfaces. Mo
 DOI : 
 
 ![fig1](https://github.com/HongSungUk/CVOS-sensor/assets/26831528/e06c19a4-ac4b-4fba-af2b-2cb0104ef3a5)
-**Fig. 1. Design and mechanism of CVOS sensor. a Design (Scale bar: 100 µm).** b Strain detection mechanism. c Movement of the micro-marker according to multiaxial strain direction. d Images of micro-markers captured by the optical system to detect the applied tensile strain. e Comparison of micro-marker positions obtained via numerical simulations and measurements.
+**Fig. 1. Design and mechanism of CVOS sensor.** a Design (Scale bar: 100 µm). b Strain detection mechanism. c Movement of the micro-marker according to multiaxial strain direction. d Images of micro-markers captured by the optical system to detect the applied tensile strain. e Comparison of micro-marker positions obtained via numerical simulations and measurements.
