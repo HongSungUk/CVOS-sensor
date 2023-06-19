@@ -8,3 +8,6 @@ DOI :
 
 ![fig1](https://github.com/HongSungUk/CVOS-sensor/assets/26831528/e06c19a4-ac4b-4fba-af2b-2cb0104ef3a5)
 **Fig. 1. Design and mechanism of CVOS sensor.** a Design (Scale bar: 100 µm). b Strain detection mechanism. c Movement of the micro-marker according to multiaxial strain direction. d Images of micro-markers captured by the optical system to detect the applied tensile strain. e Comparison of micro-marker positions obtained via numerical simulations and measurements.
+
+![fig6](https://github.com/HongSungUk/CVOS-sensor/assets/26831528/dc457b36-6127-4404-a500-026fe3be50d3)
+**Fig. 6. Body motion monitoring system with the CVOS sensor.** a Elbow bending. b Knee bending according to the bending angle. c Wrist bending. d Responses of the CVOS and IMU sensors to forearm rotation. e Detection of complex body motions based on movement direction and angle. f Shoulder rotation motion detection via multiaxial strain mapping.
